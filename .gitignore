@@ -19,6 +19,7 @@ buildNumber.properties
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
+overlays/
 .idea/**/shelf
 
 # Sensitive or high-churn files
